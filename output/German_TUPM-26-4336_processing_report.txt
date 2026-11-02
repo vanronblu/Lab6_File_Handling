@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+------------------------------------- 
+Last Name: German
+Student ID: TUPM-26-4336
+Seed Digit: 6
+ID Sum: 24
+Verification Value: 150
+Dataset Sample Size: 74
+Valid Records: 74
+Average Global Active Power: 4.055
+JSON File: German_TUPM-26-4336_record.json
+Backup File: German_(STUDENT_ID]_record.csv

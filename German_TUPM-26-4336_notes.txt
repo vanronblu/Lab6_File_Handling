@@ -1,0 +1,5 @@
+Student: German
+Student ID: TUPM-26-4336
+Seed digit: 6
+ID sum: 24
+Verification value: 150

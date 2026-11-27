@@ -1,0 +1,67 @@
+{
+    "target_year": 2021,
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 299,
+    "count_per_attack_type": {
+        "Phishing": 41,
+        "SQL Injection": 59,
+        "Malware": 49,
+        "DDoS": 47,
+        "Ransomware": 55,
+        "Man-in-the-Middle": 48
+    },
+    "total_financial_loss": 15873.41,
+    "average_financial_loss": 53.09,
+    "five_costliest_incidents": [
+        {
+            "Country": "USA",
+            "Year": "2021",
+            "Attack Type": "DDoS",
+            "Financial Loss (in Million $)": "99.81",
+            "Number of Affected Users": "460842",
+            "Attack Source": "Unknown",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "AI-based Detection"
+        },
+        {
+            "Country": "France",
+            "Year": "2021",
+            "Attack Type": "Ransomware",
+            "Financial Loss (in Million $)": "99.77",
+            "Number of Affected Users": "533151",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Antivirus"
+        },
+        {
+            "Country": "France",
+            "Year": "2021",
+            "Attack Type": "SQL Injection",
+            "Financial Loss (in Million $)": "98.76",
+            "Number of Affected Users": "904598",
+            "Attack Source": "Hacker Group",
+            "Security Vulnerability Type": "Social Engineering",
+            "Defense Mechanism Used": "AI-based Detection"
+        },
+        {
+            "Country": "China",
+            "Year": "2021",
+            "Attack Type": "SQL Injection",
+            "Financial Loss (in Million $)": "98.57",
+            "Number of Affected Users": "430792",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Antivirus"
+        },
+        {
+            "Country": "India",
+            "Year": "2021",
+            "Attack Type": "SQL Injection",
+            "Financial Loss (in Million $)": "98.09",
+            "Number of Affected Users": "826976",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "VPN"
+        }
+    ]
+}

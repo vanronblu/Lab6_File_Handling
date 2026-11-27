@@ -1,0 +1,24 @@
+CYBERSECURITY INCIDENT REPORT
+==============================
+Target Year: 2021
+Total Incidents Found: 299
+
+INCIDENT COUNTS PER ATTACK TYPE:
+ - Phishing: 41
+ - SQL Injection: 59
+ - Malware: 49
+ - DDoS: 47
+ - Ransomware: 55
+ - Man-in-the-Middle: 48
+
+FIVE COSTLIEST INCIDENTS:
+1. DDoS in USA - $99.81M
+2. Ransomware in France - $99.77M
+3. SQL Injection in France - $98.76M
+4. SQL Injection in China - $98.57M
+5. SQL Injection in India - $98.09M
+
+OUTPUT FILES:
+ - Filtered CSV: filtered_incidents.csv
+ - Summary JSON: incident_summary.json
+ - Backup JSON: incident_summary_backup.json

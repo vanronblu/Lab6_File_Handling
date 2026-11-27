@@ -1,0 +1,27 @@
+{
+    "student_id": 4336,
+    "records_processed": 5336,
+    "target_status_class": "4xx",
+    "records_in_target_class": 69,
+    "count_per_status_code": {
+        "404": 69
+    },
+    "top_5_urls": [
+        {
+            "url": "GET /robots.txt HTTP/1.1",
+            "count": 57
+        },
+        {
+            "url": "GET /favicon.ico HTTP/1.1",
+            "count": 8
+        },
+        {
+            "url": "GET /djs/vendor/bootstrap-datetimepicker.js HTTP/1.1",
+            "count": 3
+        },
+        {
+            "url": "GET /css/bootstrap.min.css.map HTTP/1.1",
+            "count": 1
+        }
+    ]
+}

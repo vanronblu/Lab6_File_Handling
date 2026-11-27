@@ -1,0 +1,300 @@
+Country,Year,Attack Type,Financial Loss (in Million $),Number of Affected Users,Attack Source,Security Vulnerability Type,Defense Mechanism Used
+China,2021,Phishing,51.06,628562,Insider,Zero-day,AI-based Detection
+Japan,2021,SQL Injection,82.52,214372,Insider,Unpatched Software,Encryption
+India,2021,SQL Injection,98.09,826976,Nation-state,Zero-day,VPN
+UK,2021,Malware,67.1,698852,Unknown,Weak Passwords,Antivirus
+China,2021,Phishing,55.04,871600,Insider,Unpatched Software,Firewall
+Brazil,2021,DDoS,70.26,740257,Unknown,Weak Passwords,Encryption
+France,2021,DDoS,90.63,603327,Nation-state,Unpatched Software,AI-based Detection
+UK,2021,DDoS,80.26,276593,Nation-state,Social Engineering,Encryption
+Japan,2021,Ransomware,35.43,969517,Hacker Group,Weak Passwords,Firewall
+USA,2021,Malware,71.11,961868,Hacker Group,Unpatched Software,Antivirus
+Russia,2021,Malware,83.76,920983,Insider,Social Engineering,Encryption
+France,2021,Man-in-the-Middle,94.4,357092,Unknown,Unpatched Software,VPN
+Australia,2021,Malware,84.68,708291,Hacker Group,Zero-day,AI-based Detection
+USA,2021,SQL Injection,82.24,982969,Unknown,Unpatched Software,Encryption
+Germany,2021,Malware,82.72,219703,Nation-state,Social Engineering,Firewall
+Germany,2021,DDoS,91.24,8787,Hacker Group,Unpatched Software,Encryption
+Russia,2021,SQL Injection,80.23,599291,Nation-state,Social Engineering,Firewall
+UK,2021,SQL Injection,39.03,986196,Nation-state,Weak Passwords,Encryption
+USA,2021,Man-in-the-Middle,15.92,945793,Insider,Zero-day,Firewall
+Russia,2021,Malware,0.54,869574,Unknown,Unpatched Software,Antivirus
+Brazil,2021,Malware,83.06,937717,Unknown,Unpatched Software,Encryption
+India,2021,Man-in-the-Middle,71.64,416077,Insider,Social Engineering,VPN
+USA,2021,DDoS,1.98,863623,Hacker Group,Weak Passwords,Firewall
+Japan,2021,SQL Injection,66.23,164032,Unknown,Social Engineering,Firewall
+USA,2021,Man-in-the-Middle,36.06,48987,Unknown,Zero-day,VPN
+Russia,2021,SQL Injection,68.07,538602,Insider,Unpatched Software,VPN
+Germany,2021,Ransomware,5.54,254933,Nation-state,Social Engineering,AI-based Detection
+Brazil,2021,SQL Injection,54.59,437634,Unknown,Weak Passwords,AI-based Detection
+Japan,2021,Phishing,37.45,558357,Hacker Group,Weak Passwords,VPN
+Germany,2021,SQL Injection,1.62,61463,Hacker Group,Weak Passwords,Antivirus
+Japan,2021,DDoS,32.84,311274,Hacker Group,Zero-day,Encryption
+UK,2021,DDoS,97.03,100486,Nation-state,Unpatched Software,Firewall
+France,2021,Malware,33.84,440358,Nation-state,Social Engineering,Antivirus
+Brazil,2021,Man-in-the-Middle,97.37,966570,Nation-state,Weak Passwords,Antivirus
+UK,2021,SQL Injection,77.82,935572,Hacker Group,Social Engineering,Encryption
+Australia,2021,Malware,13.99,689681,Nation-state,Weak Passwords,AI-based Detection
+UK,2021,Malware,64.28,643714,Nation-state,Weak Passwords,VPN
+India,2021,Man-in-the-Middle,40.94,698921,Insider,Weak Passwords,Firewall
+Brazil,2021,Ransomware,74.01,956893,Unknown,Social Engineering,Antivirus
+UK,2021,SQL Injection,52.23,449333,Hacker Group,Unpatched Software,Encryption
+Brazil,2021,SQL Injection,11.61,848702,Unknown,Weak Passwords,Antivirus
+Australia,2021,Ransomware,41.26,659734,Insider,Unpatched Software,Antivirus
+UK,2021,Phishing,1.35,375292,Unknown,Unpatched Software,Firewall
+Australia,2021,Man-in-the-Middle,86.29,404595,Unknown,Social Engineering,AI-based Detection
+UK,2021,Phishing,56.53,542850,Nation-state,Zero-day,Antivirus
+UK,2021,Ransomware,79.33,555527,Unknown,Unpatched Software,Firewall
+UK,2021,Malware,70.9,490771,Nation-state,Weak Passwords,Antivirus
+India,2021,DDoS,35.19,155426,Nation-state,Zero-day,Firewall
+Brazil,2021,DDoS,14.72,126781,Insider,Weak Passwords,Antivirus
+Brazil,2021,DDoS,56.2,713309,Hacker Group,Zero-day,Antivirus
+Russia,2021,DDoS,11.38,334528,Insider,Weak Passwords,VPN
+Japan,2021,Phishing,9.42,573560,Hacker Group,Social Engineering,Antivirus
+Brazil,2021,DDoS,67.87,683261,Hacker Group,Unpatched Software,Antivirus
+Germany,2021,Man-in-the-Middle,37.69,361849,Hacker Group,Zero-day,Firewall
+Australia,2021,SQL Injection,10.28,994468,Insider,Unpatched Software,Antivirus
+UK,2021,Man-in-the-Middle,40.98,414340,Insider,Unpatched Software,AI-based Detection
+UK,2021,Ransomware,3.99,634820,Insider,Unpatched Software,Encryption
+France,2021,Malware,3.44,887718,Insider,Zero-day,Antivirus
+Russia,2021,DDoS,91.69,686309,Unknown,Unpatched Software,Antivirus
+India,2021,Man-in-the-Middle,53.49,582718,Hacker Group,Social Engineering,Encryption
+Japan,2021,Man-in-the-Middle,18.91,549640,Nation-state,Social Engineering,Encryption
+France,2021,SQL Injection,62.9,577763,Insider,Zero-day,AI-based Detection
+Australia,2021,Man-in-the-Middle,82.87,255967,Unknown,Social Engineering,VPN
+USA,2021,Ransomware,3.63,231198,Insider,Unpatched Software,Encryption
+China,2021,Ransomware,32.72,994243,Hacker Group,Social Engineering,Firewall
+USA,2021,Phishing,29.02,555756,Insider,Zero-day,AI-based Detection
+India,2021,SQL Injection,75.25,597509,Nation-state,Social Engineering,Firewall
+UK,2021,DDoS,8.82,736601,Nation-state,Zero-day,AI-based Detection
+UK,2021,Malware,3.17,570243,Insider,Unpatched Software,Antivirus
+Russia,2021,Ransomware,34.92,501490,Insider,Social Engineering,Firewall
+Australia,2021,Man-in-the-Middle,67.72,393335,Hacker Group,Social Engineering,Antivirus
+UK,2021,Man-in-the-Middle,72.57,477493,Hacker Group,Unpatched Software,Encryption
+Japan,2021,Phishing,22.94,622723,Nation-state,Weak Passwords,AI-based Detection
+Japan,2021,DDoS,14.88,887855,Nation-state,Zero-day,AI-based Detection
+USA,2021,Man-in-the-Middle,42.29,817386,Nation-state,Zero-day,Firewall
+Germany,2021,DDoS,28.71,937384,Hacker Group,Unpatched Software,Encryption
+Japan,2021,Phishing,81.26,245015,Nation-state,Zero-day,Firewall
+Russia,2021,DDoS,45.6,759356,Insider,Social Engineering,VPN
+Brazil,2021,DDoS,69.37,666096,Hacker Group,Zero-day,Encryption
+India,2021,SQL Injection,68.91,851981,Nation-state,Zero-day,AI-based Detection
+Russia,2021,Ransomware,11.04,904330,Nation-state,Weak Passwords,VPN
+France,2021,Man-in-the-Middle,53.77,302180,Insider,Weak Passwords,AI-based Detection
+Japan,2021,Man-in-the-Middle,61.03,768506,Nation-state,Zero-day,AI-based Detection
+Japan,2021,Ransomware,77.33,380970,Nation-state,Weak Passwords,Encryption
+USA,2021,Phishing,70.03,248437,Hacker Group,Social Engineering,Encryption
+Australia,2021,DDoS,30.24,292383,Insider,Social Engineering,Encryption
+Russia,2021,DDoS,37.47,476758,Hacker Group,Unpatched Software,AI-based Detection
+China,2021,Malware,42.26,615849,Nation-state,Unpatched Software,Encryption
+France,2021,SQL Injection,63.74,235418,Nation-state,Weak Passwords,Encryption
+Japan,2021,DDoS,35.46,937562,Unknown,Zero-day,Firewall
+USA,2021,Ransomware,6.77,697935,Unknown,Social Engineering,AI-based Detection
+Germany,2021,DDoS,1.62,823004,Nation-state,Zero-day,Encryption
+Russia,2021,DDoS,18.47,394957,Hacker Group,Weak Passwords,Antivirus
+USA,2021,Man-in-the-Middle,83.88,980367,Nation-state,Unpatched Software,Firewall
+Russia,2021,DDoS,78.76,130413,Unknown,Social Engineering,Encryption
+France,2021,Man-in-the-Middle,52.04,757744,Nation-state,Zero-day,Antivirus
+USA,2021,Ransomware,91.94,710953,Unknown,Zero-day,Firewall
+USA,2021,SQL Injection,45.52,838652,Unknown,Social Engineering,Encryption
+Brazil,2021,Phishing,83.79,90156,Hacker Group,Unpatched Software,Antivirus
+China,2021,Malware,20.52,33426,Unknown,Social Engineering,Antivirus
+China,2021,SQL Injection,39.44,155768,Nation-state,Social Engineering,AI-based Detection
+Russia,2021,Man-in-the-Middle,18.66,292992,Insider,Zero-day,Encryption
+USA,2021,Phishing,0.92,260396,Hacker Group,Zero-day,Antivirus
+India,2021,Phishing,37.1,713949,Hacker Group,Unpatched Software,Antivirus
+France,2021,Phishing,76.02,573328,Insider,Zero-day,AI-based Detection
+France,2021,Man-in-the-Middle,90.99,483484,Hacker Group,Unpatched Software,VPN
+France,2021,SQL Injection,98.76,904598,Hacker Group,Social Engineering,AI-based Detection
+India,2021,Ransomware,76.83,603402,Insider,Zero-day,AI-based Detection
+USA,2021,DDoS,87.32,315915,Nation-state,Social Engineering,Antivirus
+Germany,2021,Phishing,96.81,374164,Hacker Group,Weak Passwords,Antivirus
+Brazil,2021,DDoS,84.41,230110,Unknown,Social Engineering,Antivirus
+China,2021,SQL Injection,23.15,730762,Insider,Social Engineering,VPN
+Australia,2021,Malware,10.35,776819,Insider,Unpatched Software,VPN
+Australia,2021,Ransomware,91.8,125309,Unknown,Social Engineering,Antivirus
+Russia,2021,Malware,51.05,262500,Nation-state,Social Engineering,AI-based Detection
+Germany,2021,DDoS,32.07,510895,Unknown,Weak Passwords,Antivirus
+Brazil,2021,DDoS,75.1,740795,Hacker Group,Unpatched Software,Firewall
+Brazil,2021,Ransomware,78.08,989151,Unknown,Social Engineering,AI-based Detection
+Australia,2021,Ransomware,24.33,77845,Insider,Social Engineering,AI-based Detection
+Australia,2021,Malware,22.48,70067,Insider,Weak Passwords,VPN
+Japan,2021,SQL Injection,51.24,452476,Nation-state,Zero-day,VPN
+Brazil,2021,SQL Injection,92.4,654303,Hacker Group,Unpatched Software,AI-based Detection
+China,2021,Phishing,84.49,884734,Hacker Group,Weak Passwords,Encryption
+Japan,2021,Man-in-the-Middle,55.4,68886,Hacker Group,Weak Passwords,AI-based Detection
+Brazil,2021,DDoS,80.79,134998,Unknown,Zero-day,AI-based Detection
+UK,2021,Malware,58.9,984973,Unknown,Zero-day,Encryption
+China,2021,Man-in-the-Middle,85.26,812101,Insider,Social Engineering,VPN
+Australia,2021,Ransomware,88.2,576302,Hacker Group,Zero-day,AI-based Detection
+Russia,2021,Phishing,73.93,32743,Hacker Group,Zero-day,VPN
+China,2021,SQL Injection,13.76,11310,Hacker Group,Weak Passwords,Antivirus
+Russia,2021,DDoS,79.06,368255,Nation-state,Social Engineering,Encryption
+Russia,2021,Man-in-the-Middle,39.73,80069,Insider,Unpatched Software,VPN
+Brazil,2021,SQL Injection,83.99,807733,Unknown,Weak Passwords,Encryption
+Brazil,2021,Man-in-the-Middle,27.95,625370,Insider,Social Engineering,Firewall
+Australia,2021,Malware,51.66,247243,Nation-state,Zero-day,Antivirus
+Germany,2021,SQL Injection,27.54,383781,Nation-state,Zero-day,Antivirus
+UK,2021,Ransomware,4.22,65148,Nation-state,Weak Passwords,VPN
+USA,2021,Man-in-the-Middle,64.96,485702,Unknown,Unpatched Software,Firewall
+Brazil,2021,DDoS,96.23,649383,Unknown,Weak Passwords,Encryption
+France,2021,Ransomware,27.1,199832,Nation-state,Weak Passwords,Antivirus
+India,2021,Ransomware,20.26,144065,Insider,Unpatched Software,Firewall
+Japan,2021,Malware,76.8,607544,Nation-state,Weak Passwords,Encryption
+Japan,2021,Ransomware,79.25,437649,Hacker Group,Weak Passwords,Firewall
+Brazil,2021,SQL Injection,34.32,673923,Hacker Group,Unpatched Software,Encryption
+India,2021,Man-in-the-Middle,55.12,942454,Hacker Group,Social Engineering,VPN
+USA,2021,Malware,72.24,472835,Hacker Group,Unpatched Software,Encryption
+India,2021,SQL Injection,85.69,172469,Insider,Weak Passwords,Antivirus
+India,2021,Malware,82.66,586,Hacker Group,Zero-day,VPN
+Japan,2021,Malware,77.84,783976,Nation-state,Weak Passwords,Firewall
+Germany,2021,Ransomware,25.85,176331,Insider,Weak Passwords,Antivirus
+France,2021,Man-in-the-Middle,4.94,71156,Insider,Social Engineering,Encryption
+Japan,2021,Phishing,82.85,854309,Insider,Zero-day,Antivirus
+China,2021,SQL Injection,57.2,328454,Nation-state,Zero-day,VPN
+Brazil,2021,Ransomware,21.21,570810,Insider,Social Engineering,Firewall
+China,2021,Ransomware,21.9,304804,Hacker Group,Weak Passwords,AI-based Detection
+China,2021,Ransomware,56.11,255531,Unknown,Social Engineering,Firewall
+China,2021,SQL Injection,97.06,329378,Nation-state,Weak Passwords,VPN
+Japan,2021,Man-in-the-Middle,69.99,834355,Nation-state,Unpatched Software,AI-based Detection
+USA,2021,Phishing,38.2,159917,Insider,Zero-day,Antivirus
+Japan,2021,Man-in-the-Middle,15.78,733307,Nation-state,Social Engineering,Firewall
+France,2021,Phishing,13.47,537683,Insider,Unpatched Software,VPN
+UK,2021,Ransomware,13.26,448367,Nation-state,Social Engineering,AI-based Detection
+Japan,2021,Malware,90.8,841766,Nation-state,Social Engineering,AI-based Detection
+UK,2021,Phishing,89.59,361270,Nation-state,Weak Passwords,VPN
+Russia,2021,SQL Injection,80.68,983047,Hacker Group,Unpatched Software,Antivirus
+India,2021,SQL Injection,52.16,100105,Unknown,Zero-day,Firewall
+Japan,2021,SQL Injection,28.33,667271,Insider,Weak Passwords,Firewall
+USA,2021,Phishing,28.75,959107,Unknown,Zero-day,Antivirus
+Germany,2021,Man-in-the-Middle,14.45,292854,Nation-state,Unpatched Software,AI-based Detection
+UK,2021,Phishing,44.7,408446,Insider,Social Engineering,VPN
+France,2021,Malware,68.64,894858,Hacker Group,Social Engineering,Firewall
+Japan,2021,Man-in-the-Middle,9.97,536471,Hacker Group,Weak Passwords,Encryption
+China,2021,Man-in-the-Middle,66.61,596341,Insider,Weak Passwords,AI-based Detection
+Brazil,2021,Ransomware,67.25,796351,Nation-state,Weak Passwords,AI-based Detection
+China,2021,Ransomware,5.96,92237,Nation-state,Weak Passwords,AI-based Detection
+Australia,2021,Man-in-the-Middle,82.04,828293,Insider,Weak Passwords,Antivirus
+France,2021,Phishing,31.52,380086,Nation-state,Social Engineering,Encryption
+China,2021,DDoS,10.2,950257,Nation-state,Weak Passwords,AI-based Detection
+Russia,2021,DDoS,94.48,281900,Hacker Group,Zero-day,Antivirus
+Australia,2021,Malware,84.74,391257,Hacker Group,Zero-day,AI-based Detection
+Australia,2021,Man-in-the-Middle,42.24,147589,Insider,Unpatched Software,Antivirus
+China,2021,Phishing,70.2,631101,Unknown,Zero-day,Firewall
+Germany,2021,Ransomware,66.84,242893,Nation-state,Zero-day,Antivirus
+France,2021,Phishing,45.74,754278,Insider,Social Engineering,Firewall
+UK,2021,Malware,82.28,370146,Nation-state,Zero-day,VPN
+China,2021,Man-in-the-Middle,49.59,284823,Unknown,Social Engineering,Antivirus
+UK,2021,Malware,73.02,731722,Hacker Group,Weak Passwords,VPN
+China,2021,Ransomware,12.97,425647,Unknown,Zero-day,Antivirus
+UK,2021,Malware,77.18,347426,Hacker Group,Zero-day,Antivirus
+Germany,2021,Phishing,55.14,463525,Nation-state,Unpatched Software,AI-based Detection
+India,2021,Malware,57.91,769222,Insider,Weak Passwords,Antivirus
+China,2021,DDoS,38.67,340194,Unknown,Weak Passwords,VPN
+China,2021,Man-in-the-Middle,33.3,935265,Nation-state,Unpatched Software,Firewall
+Japan,2021,Malware,30.53,333238,Hacker Group,Social Engineering,Firewall
+China,2021,Malware,92.2,248859,Nation-state,Social Engineering,Antivirus
+USA,2021,Phishing,95.86,671335,Hacker Group,Zero-day,Antivirus
+UK,2021,SQL Injection,1.47,204624,Unknown,Unpatched Software,VPN
+Brazil,2021,Phishing,42.82,974362,Insider,Unpatched Software,Encryption
+Japan,2021,Phishing,94.32,755165,Hacker Group,Social Engineering,Antivirus
+UK,2021,DDoS,67.12,581923,Hacker Group,Social Engineering,VPN
+Russia,2021,Ransomware,86.8,852965,Nation-state,Weak Passwords,Antivirus
+Brazil,2021,Man-in-the-Middle,3.69,566386,Insider,Unpatched Software,Encryption
+India,2021,Phishing,38.5,517843,Unknown,Unpatched Software,VPN
+Russia,2021,Man-in-the-Middle,70.97,465446,Unknown,Unpatched Software,Encryption
+France,2021,Man-in-the-Middle,20.57,119348,Nation-state,Unpatched Software,Firewall
+France,2021,Malware,47.14,169113,Insider,Weak Passwords,VPN
+Germany,2021,SQL Injection,17.55,519698,Insider,Social Engineering,Encryption
+Australia,2021,SQL Injection,92.66,49085,Hacker Group,Weak Passwords,VPN
+UK,2021,Phishing,68.5,396839,Hacker Group,Zero-day,Encryption
+Russia,2021,Phishing,45.97,699825,Nation-state,Unpatched Software,Antivirus
+UK,2021,Ransomware,97.5,755692,Nation-state,Social Engineering,AI-based Detection
+Australia,2021,DDoS,20.39,342951,Nation-state,Zero-day,Antivirus
+France,2021,Ransomware,76.83,189999,Hacker Group,Social Engineering,VPN
+UK,2021,DDoS,57.75,829827,Nation-state,Weak Passwords,Antivirus
+France,2021,Phishing,45.67,95873,Unknown,Unpatched Software,Antivirus
+Brazil,2021,Man-in-the-Middle,81.68,893986,Insider,Unpatched Software,Firewall
+Brazil,2021,Malware,34.68,786462,Unknown,Weak Passwords,Firewall
+UK,2021,SQL Injection,80.05,682480,Hacker Group,Zero-day,AI-based Detection
+India,2021,SQL Injection,18.26,78277,Hacker Group,Weak Passwords,Firewall
+Japan,2021,DDoS,74.26,81354,Insider,Weak Passwords,Firewall
+France,2021,Phishing,78.99,542754,Insider,Zero-day,VPN
+UK,2021,Phishing,88.38,281387,Hacker Group,Social Engineering,Firewall
+USA,2021,SQL Injection,89.93,982269,Insider,Unpatched Software,Antivirus
+Germany,2021,Ransomware,11.42,55683,Hacker Group,Unpatched Software,AI-based Detection
+India,2021,Ransomware,54.97,798498,Nation-state,Zero-day,VPN
+Germany,2021,Malware,23.34,518982,Hacker Group,Weak Passwords,VPN
+Brazil,2021,SQL Injection,50.61,772512,Hacker Group,Weak Passwords,Encryption
+India,2021,Ransomware,86.73,534013,Unknown,Unpatched Software,Firewall
+India,2021,Malware,50.97,838461,Nation-state,Zero-day,AI-based Detection
+India,2021,DDoS,95.95,62194,Nation-state,Zero-day,AI-based Detection
+UK,2021,DDoS,70.49,530341,Insider,Social Engineering,VPN
+Russia,2021,Phishing,78.45,56333,Unknown,Social Engineering,VPN
+Australia,2021,Man-in-the-Middle,17.62,687020,Unknown,Weak Passwords,Antivirus
+Germany,2021,Phishing,48.0,170032,Nation-state,Social Engineering,Encryption
+France,2021,SQL Injection,42.75,467551,Unknown,Unpatched Software,Encryption
+China,2021,SQL Injection,55.55,224311,Insider,Zero-day,Firewall
+China,2021,SQL Injection,98.57,430792,Insider,Weak Passwords,Antivirus
+Germany,2021,Ransomware,16.64,912847,Unknown,Weak Passwords,Antivirus
+USA,2021,DDoS,99.81,460842,Unknown,Weak Passwords,AI-based Detection
+USA,2021,Phishing,6.01,176772,Insider,Unpatched Software,Firewall
+Brazil,2021,SQL Injection,1.32,564277,Nation-state,Weak Passwords,Firewall
+Germany,2021,Ransomware,46.82,589744,Nation-state,Weak Passwords,VPN
+Russia,2021,Man-in-the-Middle,44.32,634390,Unknown,Zero-day,Antivirus
+Japan,2021,Ransomware,10.34,791473,Nation-state,Weak Passwords,Firewall
+Australia,2021,SQL Injection,22.51,71557,Insider,Social Engineering,Antivirus
+Australia,2021,Malware,74.61,357205,Nation-state,Weak Passwords,Antivirus
+Russia,2021,SQL Injection,66.5,348118,Hacker Group,Zero-day,VPN
+Germany,2021,Man-in-the-Middle,90.57,254634,Hacker Group,Social Engineering,AI-based Detection
+Japan,2021,SQL Injection,64.81,263770,Unknown,Social Engineering,Antivirus
+USA,2021,DDoS,47.84,498904,Hacker Group,Zero-day,Antivirus
+Brazil,2021,Malware,74.37,298836,Hacker Group,Social Engineering,Encryption
+Russia,2021,Man-in-the-Middle,28.34,446741,Nation-state,Weak Passwords,Firewall
+Brazil,2021,DDoS,89.79,454088,Hacker Group,Social Engineering,VPN
+India,2021,Malware,65.87,357399,Nation-state,Zero-day,Encryption
+Japan,2021,SQL Injection,3.97,604843,Insider,Unpatched Software,AI-based Detection
+Russia,2021,SQL Injection,82.88,479586,Insider,Zero-day,AI-based Detection
+China,2021,Ransomware,71.9,698786,Hacker Group,Zero-day,Antivirus
+Japan,2021,DDoS,94.23,441749,Nation-state,Unpatched Software,AI-based Detection
+Brazil,2021,Ransomware,72.14,673933,Unknown,Zero-day,AI-based Detection
+USA,2021,Ransomware,84.64,534283,Insider,Social Engineering,VPN
+Russia,2021,SQL Injection,48.71,861410,Unknown,Social Engineering,VPN
+Germany,2021,DDoS,73.5,806210,Unknown,Weak Passwords,Antivirus
+France,2021,Malware,50.84,7910,Unknown,Unpatched Software,Firewall
+UK,2021,Man-in-the-Middle,71.88,757595,Insider,Weak Passwords,VPN
+Brazil,2021,Malware,79.56,334916,Nation-state,Weak Passwords,Firewall
+China,2021,Ransomware,44.84,16106,Nation-state,Weak Passwords,Firewall
+USA,2021,Man-in-the-Middle,51.43,640851,Unknown,Zero-day,VPN
+USA,2021,Malware,49.73,386686,Insider,Zero-day,AI-based Detection
+China,2021,DDoS,84.09,954379,Insider,Social Engineering,VPN
+Brazil,2021,SQL Injection,4.34,258021,Hacker Group,Unpatched Software,Encryption
+Russia,2021,Ransomware,85.65,920121,Unknown,Social Engineering,Antivirus
+Australia,2021,SQL Injection,4.52,971908,Unknown,Zero-day,AI-based Detection
+France,2021,SQL Injection,2.3,841324,Unknown,Weak Passwords,Encryption
+France,2021,Ransomware,2.39,665023,Insider,Unpatched Software,Firewall
+France,2021,Ransomware,99.77,533151,Nation-state,Zero-day,Antivirus
+France,2021,Man-in-the-Middle,44.03,60431,Hacker Group,Weak Passwords,AI-based Detection
+France,2021,Malware,55.66,21833,Hacker Group,Zero-day,Encryption
+Germany,2021,Malware,88.01,334748,Unknown,Zero-day,Encryption
+Germany,2021,SQL Injection,69.07,264662,Insider,Social Engineering,AI-based Detection
+India,2021,SQL Injection,2.3,942089,Insider,Unpatched Software,VPN
+China,2021,Ransomware,40.01,998728,Unknown,Weak Passwords,AI-based Detection
+France,2021,SQL Injection,52.67,434504,Unknown,Social Engineering,AI-based Detection
+Australia,2021,Ransomware,61.46,860546,Unknown,Zero-day,AI-based Detection
+Germany,2021,Malware,78.46,606940,Insider,Social Engineering,AI-based Detection
+Australia,2021,DDoS,47.83,126709,Unknown,Weak Passwords,Antivirus
+Australia,2021,Malware,77.63,434446,Unknown,Social Engineering,Encryption
+China,2021,Phishing,41.97,617987,Insider,Social Engineering,Antivirus
+USA,2021,Ransomware,72.24,283947,Hacker Group,Unpatched Software,AI-based Detection
+France,2021,Ransomware,58.86,935319,Nation-state,Social Engineering,Antivirus
+Germany,2021,SQL Injection,55.5,693497,Nation-state,Unpatched Software,Antivirus
+India,2021,Ransomware,9.54,386911,Insider,Social Engineering,Antivirus
+China,2021,Phishing,76.26,756305,Nation-state,Weak Passwords,VPN
+France,2021,SQL Injection,78.89,704427,Hacker Group,Zero-day,VPN
+Germany,2021,Malware,43.99,431678,Insider,Unpatched Software,Encryption
+Australia,2021,Ransomware,37.89,843256,Nation-state,Unpatched Software,Antivirus
+Brazil,2021,Ransomware,18.11,849791,Nation-state,Unpatched Software,VPN
+UK,2021,Malware,60.14,191427,Nation-state,Zero-day,Encryption
+UK,2021,Ransomware,51.42,190694,Unknown,Social Engineering,Firewall
+Germany,2021,SQL Injection,48.2,480984,Unknown,Zero-day,VPN

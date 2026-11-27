@@ -1,0 +1,10 @@
+{
+    "student_id": 4336,
+    "operating_system": "Android",
+    "target_behavior_class": 2,
+    "total_records_in_dataset": 700,
+    "records_matching_os": 554,
+    "records_in_target_class": 114,
+    "average_battery_drain": 887.11,
+    "average_data_usage": 451.44
+}
